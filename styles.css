@@ -1,0 +1,71 @@
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
+body{
+	font-size: 18px!important;
+}
+.navbar{
+	margin-bottom:0px!important;
+    border-radius: 0px!important;
+}
+.navbar-default{
+	min-height: 70px!important;
+}
+.selected a{
+	/*color: #28B463!important; GREEN*/
+	color: #2b478c!important;
+}
+.container-fluid{
+	max-width: 1170px;
+	padding-top: 9px;
+    padding-bottom: 9px;
+}
+.banner{
+	margin: 0 auto;
+	max-width: 1170px;
+	max-height: 150px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.banner-image{
+	max-width: 100%;
+	max-height: 150px;
+	height: auto;
+}
+.body-background{
+	background-image: url("images/BG6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.cataract-image{
+	max-width: 100%;
+	max-height: 300px;
+	height: auto;
+}
+.main-page{
+	padding: 20px 20px;
+	max-width: 1170px;
+	margin: 0 auto;
+	background-color: #f8f8f8;
+    box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14), 0 6px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.2);
+}
+.main-page h1, .main-page h2, .main-page h3{
+	color: #2b478c;
+}
+.main-page-info{
+	padding: 0px 20px;
+	padding-bottom: 10px;
+}
+.main-page-info li{
+	padding:5px;
+}
+.footer {
+	border-top: 1px solid #2b478c;
+	padding:10px 0px!important;
+}
+.footer p{
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 17px;
+}
